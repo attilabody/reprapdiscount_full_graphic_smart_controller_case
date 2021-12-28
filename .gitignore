@@ -1,0 +1,7 @@
+*.FCStd?*
+*.stl
+*.amf
+*.obj
+/backup/
+
+
